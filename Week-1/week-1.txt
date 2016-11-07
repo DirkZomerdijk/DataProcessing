@@ -1,2 +1,0 @@
-A branch is a environment within your project in which you can try out new ideas.
-In a branch you can experiment an commit changes without changing the main project (master branch).
