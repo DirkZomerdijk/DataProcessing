@@ -1,0 +1,10 @@
+Questions
+
+== compares value and === also compares type (int, str, etc..)
+
+A closure is a function having access to the parent scope, even after the parent function has closed.
+
+Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions.
+
+The querySelector() method returns the first element that matches a specified CSS selector(s) in the document.
+document.querySelector("p.example");
