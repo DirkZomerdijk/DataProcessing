@@ -1,0 +1,24 @@
+/* 	Dirk Zomerdijk
+	10530274	*/
+	
+/* continent color */
+.continent
+{
+  
+}
+
+/* country colors */
+#fra
+{
+	fill: purple;
+}
+
+#ua
+{
+	fill: yellow;
+}
+
+#nld
+{
+	fill: orange;
+}
