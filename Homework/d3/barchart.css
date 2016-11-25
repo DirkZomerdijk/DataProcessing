@@ -1,0 +1,30 @@
+.bar{
+	fill: #C40C0C; /*Canada Red*/
+}
+.bar:hover {
+	fill: #660000; /*pine green*/
+}
+.axisG{
+	font-size: 13px;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+.label{
+	font-size: 18px;
+	font-style: italic;
+}
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 10px;
+}
+.title{
+	font-family: Arial Black;
+	font-size: 20px
+}
+.axis{
+	tickcolor: black;
+}
