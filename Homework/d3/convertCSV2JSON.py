@@ -13,4 +13,4 @@ Reader = csv.DictReader(csvFile, headers)
 data = []
 for row in Reader:
 	data.append(row)
-json.dump(data, jsonFile, indent = 1)
+json.dump(data, jsonFile, indent = 2)
