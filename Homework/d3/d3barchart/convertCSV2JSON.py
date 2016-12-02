@@ -1,8 +1,8 @@
 import csv;
 import json;
 
-csvFile = 'CanPop.csv'
-jsonFile = 'CanPop.json'
+csvFile = 'countries.csv'
+jsonFile = 'countries.json'
 
 csvFile = open(csvFile, 'r')
 jsonFile = open(jsonFile, 'w')
