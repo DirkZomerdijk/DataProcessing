@@ -2225,8 +2225,8 @@ var country_codes = [
     ["ye", "YEM", "Yemen"],
     ["zm", "ZMB", "Zambia"],
     ["zw", "ZWE", "Zimbabwe"] ];
-// initialise dictionary which will hold
-var item = {}
+// initialise dictionary which will hold data correspinding to dict key
+var dict = {}
 
 // calculate maximum of data
 var birthrate = []
@@ -2277,7 +2277,7 @@ for (var i = 0; i < data.length; i++) {
 	for (var j = 0; j < country_codes.length; j++) {
 		if (data[i].Country == country_codes[j][2]){
 			var key = country_codes[j][1];
-			item[key] = {birthrate: data[i].Birthrate, 
+			dict[key] = {birthrate: data[i].Birthrate, 
                         population: data[i].Population, 
                         deathrate: data[i].Deathrate, 
                         life_expectancy: data[i].Life_expectancy,
@@ -2290,7 +2290,7 @@ for (var i = 0; i < data.length; i++) {
 var map = new Datamap({
 	element: document.getElementById('container'),
 	scope: 'world',
-   	data: item,    
+   	data: dict,    
     geographyConfig: {
         borderColor: '#FDFDFD',
         // popup template which hold data, focused on birth rate
