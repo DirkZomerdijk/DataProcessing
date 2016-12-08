@@ -3,3 +3,23 @@ Dirk Zomerdijk
 10530274
 Linegraph in d3
 */	
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.circle {
+	fill: steelblue;
+	stroke: steelblue;
+}
+.info{
+	font-weight: bold;
+}
