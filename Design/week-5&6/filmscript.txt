@@ -1,11 +1,15 @@
 intro:
 
-Bier, in de volksmond ook wel bekend als gerstenat, speelt sinds mensenheugenis
-een belangrijke rol in de samenleving. In holland houden we allemaal ven een pilske.
-We zijn het er allemaal over eens: bier is lekker, bier is goed.
-Vreemd genoeg wijst de data op iets heel anders. In de laatste drie jaar is de bierconsumptie 
-afgenomen! Hoe kan het dat we onze geneugden steeds minder zoeken in deze gouden vloeistof?
-(Staafdiagram in glas)
+Bier, in de volksmond ook wel bekend als gerstenat, 
+speelt sinds mensenheugenis een belangrijke rol in de samenleving. 
+In holland houden we allemaal ven een pilske.
+We zijn het er allemaal over eens: 
+bier is lekker, bier is goed.
+Vreemd genoeg wijst de data op iets heel anders. 
+Hier is de nationale bierconsumptie van de afgelopen drie jaar weergegeven. 
+Hoe leger het bierglas, hoe kleiner het aantal gedronken liters. 
+In de laatste drie jaar is de bierconsumptie dus duidelijk afgenomen.
+Hoe kan het dat we onze geneugden steeds minder zoeken in deze gouden vloeistof?
 
 Scene 1:
 
@@ -25,7 +29,8 @@ Scene 3:
 
 Onze laatste maar niet minste verklaring is het grotere bewijs dat alcohol slecht is voor jonge hersentjes.
 Steeds meer onderzoek toont dit aan. De maatschappij reageert met een alcoholverbot voor jongeren onder de 18
-en steeds meer reclames tegen alcoholgebruik onder de jongeren. Dit heeft zeker effect: Het alcoholgebruik onder jongeren sterk gedaald.
+en steeds meer reclames tegen alcoholgebruik onder de jongeren. Dit heeft zeker effect. 
+Het alcoholgebruik onder jongeren sterk gedaald.
 
 Outro:
 
