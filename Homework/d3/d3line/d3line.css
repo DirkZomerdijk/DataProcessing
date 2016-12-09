@@ -24,3 +24,6 @@ Linegraph in d3
   fill: none;
   pointer-events: all;
 }
+.circle {
+	fill: steelblue;
+}

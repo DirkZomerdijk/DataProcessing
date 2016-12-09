@@ -25,11 +25,20 @@ Linegraph in d3
 	stroke: gold;
 	stroke-width: 1.5px;
 }
-
 .circle {
 	fill: darkorange;
 	stroke: red;
 }
-.info{
+.info {
+	font-size: 12px;
 	font-weight: bold;
+}
+.dateholder {
+	font-weight: bold;
+}
+.title {
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+
 }
