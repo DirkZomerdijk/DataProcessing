@@ -10,16 +10,17 @@ Linegraph in d3
   shape-rendering: crispEdges;
 }
 
+.x.axis path {
+  display: none;
+}
+
 .line {
   fill: none;
   stroke: steelblue;
   stroke-width: 1.5px;
 }
 
-.circle {
-	fill: steelblue;
-	stroke: steelblue;
-}
-.info{
-	font-weight: bold;
+.overlay {
+  fill: none;
+  pointer-events: all;
 }

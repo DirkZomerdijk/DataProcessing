@@ -57,7 +57,7 @@ d3.json("temp_jul_2016.json", function(error, data) {
 		.attr("text-anchor", "middle")
 		.style("font-size", "16px") 
         .style("text-decoration", "underline")  
-        .text("Daily Average Temperature in July 2016, De Bilt");
+        .text("Daily Average Temperature in Juli 2016, De bilt");
 
 	xScale.domain(d3.extent(data, function(d) { return d.datum; }))
 		.nice();
@@ -98,6 +98,8 @@ d3.json("temp_jul_2016.json", function(error, data) {
 		.attr("x", 10)
 		.attr("dy", ".4em");
 
+	var source = d3.select("body").append("div").append("text2");
+
     svg.append("rect")
         .attr("width", innerWidth)
         .attr("height", innerHeight)
@@ -117,6 +119,6 @@ d3.json("temp_jul_2016.json", function(error, data) {
 		focus.attr("transform","translate(" + xScale(d.datum) + "," + yScale(d.etmaal_gemiddelde) + ")");
 		focus.select("text")
 		.text(formatTime(new Date(d.datum)) + ": " + d.etmaal_gemiddelde + "°C");
-	}	
+	}
 });
 
