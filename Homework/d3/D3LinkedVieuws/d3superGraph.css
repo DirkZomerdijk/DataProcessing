@@ -1,0 +1,32 @@
+/* 	
+Dirk Zomerdijk
+10530274
+D3LinkedVieuws
+*/
+#container{
+	width: 800px;
+	height: 400px;
+}
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+.arc path {
+  stroke: #fff;
+}
+.legendLabel {
+	font-weight: bold;
+	font-size: 18px;
+}
+.title {
+	font-size: 18px;
+	font-weight: bold;
+}
+.title1 {
+	font-size: 15px;
+	font-weight: bold;
+}
+.legendText {
+	font-size: 14px;
+	font: sans-serif;
+}
