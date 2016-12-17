@@ -1,0 +1,44 @@
+/*
+Dirk Zomerdijk
+10530274
+Linegraph in d3
+*/	
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line1 {
+  fill: none;
+  stroke: red;
+  stroke-width: 1.5px;
+}
+.line2 {
+	fill: none;
+	stroke: darkorange;
+	stroke-width: 1.5px;
+}
+.line3 {
+	fill: none;
+	stroke: gold;
+	stroke-width: 1.5px;
+}
+.circle {
+	fill: darkorange;
+	stroke: red;
+}
+.info {
+	font-size: 12px;
+	font-weight: bold;
+}
+.dateholder {
+	font-weight: bold;
+}
+.title {
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+
+}

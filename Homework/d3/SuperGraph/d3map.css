@@ -1,0 +1,10 @@
+/*
+Dirk Zomerdijk
+10530274
+d3map css file
+*/
+#container{
+	position: relative;
+	width: 1000px;
+	height: 500px;
+}
